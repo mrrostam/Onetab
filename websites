@@ -1,0 +1,602 @@
+https://medium.com/rahasak/vim-as-my-latex-editor-f0c5d60c66fa | Vim as my LaTeX editor - Rahasak-Labs - Medium
+https://www.google.com/search?q=latex+vim&client=firefox-b-d&sxsrf=ALeKk02ZUEew1uV0aB1Lt044QbpzQ5vhGQ:1587444780150&ei=LHyeXujDCMPB7gKz8YuQAw&start=30&sa=N&ved=2ahUKEwjoieLR3PjoAhXDoFsKHbP4AjI4FBDy0wN6BAgMEDE&biw=1596&bih=737 | latex vim - Google Search
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk03GRHPkLWNHgRXzhlkPK3oz8HvApg:1587444736298&q=vim-latex+snippets&sa=X&ved=2ahUKEwjl4-283PjoAhVQHzQIHSUdAw4Q1QIoAHoECBEQAQ | vim-latex snippets - Google Search
+https://vim.fandom.com/wiki/Vim_Tips_Wiki | Vim Tips Wiki | Fandom
+https://vim.fandom.com/wiki/Use_Vim_like_an_IDE | Use Vim like an IDE | Vim Tips Wiki | Fandom
+http://vim-taglist.sourceforge.net/extend.html | Extending the Taglist plugin
+https://www.vim.org/scripts/script.php?script_id=2540 | snipMate - TextMate-style snippets for Vim : vim online
+http://townk.github.io/vim-autoclose/ | Townk/vim-autoclose @ GitHub
+https://vim.fandom.com/wiki/Compiling_LaTeX_from_Vim | Compiling LaTeX from Vim | Vim Tips Wiki | Fandom
+https://sourceforge.net/projects/atp-vim/ | Page not found - SourceForge.net
+https://vim.fandom.com/wiki/Category:Getting_started | Category:Getting started | Vim Tips Wiki | Fandom
+https://www.dianacai.com/blog/2018/06/28/latex-vim-skim-setup/ | My LaTeX Setup - vim, Skim, and latexmk · topics
+https://tpaschalis.github.io/macos-latex-vim/ | LaTeX + Vim + MacOS. – tpaschalis – software, systems
+https://blog.typeset.io/the-only-latex-editor-guide-youll-need-in-2018-e63868fae027 | The Only LaTeX Editor Guide You Will Need In 2019 - Typeset Blog
+https://ankursinha.in/2017/09/19/writing-latex-well-in-vim.html | Writing LaTeX well in Vim - ankursinha.in/blog
+https://coderwall.com/p/s1i5pw/latex-with-vim | LaTex with Vim (Example)
+https://www.linux.org/threads/latex-in-vim.22382/ | Latex in Vim | Linux.org
+https://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/External_Scripts/LaTeX | Learning the vi Editor/Vim/External Scripts/LaTeX - Wikibooks, open books for an open world
+https://lukesmith.xyz/latex.html | Wanna learn LaTeX?
+http://www.markbuckler.com/post/latex-in-vim/ | Writing LaTeX in Vim | Mark Buckler
+https://github.com/tpope/vim-sensible | tpope/vim-sensible: sensible.vim: Defaults everyone can agree on
+
+https://jdhao.github.io/2019/03/26/nvim_latex_write_preview/ | A Complete Guide on Writing LaTeX with Vimtex in Neovim - jdhao's blog
+https://github.com/jdhao/nvim-config/blob/master/README.md#ctags | nvim-config/README.md at master · jdhao/nvim-config
+https://raw.githubusercontent.com/jdhao/nvim-config/master/images/demo_look.jpg | demo_look.jpg (JPEG Image, 2048 × 1252 pixels) - Scaled (58%)
+https://github.com/honza/vim-snippets/blob/master/UltiSnips/tex.snippets | vim-snippets/tex.snippets at master · honza/vim-snippets
+https://github.com/honza/vim-snippets | honza/vim-snippets: vim-snipmate default snippets (Previously snipmate-snippets)
+https://github.com/honza/vim-snippets | honza/vim-snippets: vim-snipmate default snippets (Previously snipmate-snippets)
+https://github.com/honza/vim-snippets/blob/master/UltiSnips/tex.snippets | vim-snippets/tex.snippets at master · honza/vim-snippets
+https://github.com/Shougo/neosnippet.vim | Shougo/neosnippet.vim: neo-snippet plugin
+https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions | LaTeX/Floats, Figures and Captions - Wikibooks, open books for an open world
+https://www.archlinux.org/art/ | Arch Linux - Artwork
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk03mynzVDShmZ3PYF40HYsglL_WllA:1587444050979&q=neosnippet+spin+a+window&spell=1&sa=X&ved=2ahUKEwjk6oj22fjoAhW8CTQIHRX8BVsQBSgAegQIDBAn&biw=1596&bih=737 | neosnippet spin a window - Google Search
+
+https://github.com/Shougo/deoplete.nvim | Shougo/deoplete.nvim: Dark powered asynchronous completion framework for neovim/Vim8
+https://www.google.com/search?client=firefox-b-d&q=deoplete+vim | deoplete vim - Google Search
+https://vimawesome.com/plugin/deoplete-nvim | deoplete.nvim - Vim Awesome
+https://www.reddit.com/r/vim/comments/aexw9t/deoplete_replacement/ | deoplete replacement? : vim
+https://github.com/Shougo/neosnippet.vim | Shougo/neosnippet.vim: neo-snippet plugin
+https://github.com/dense-analysis/ale | dense-analysis/ale: Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+https://github.com/sbdchd/neoformat | sbdchd/neoformat: A (Neo)vim plugin for formatting code.
+https://github.com/vim-syntastic/syntastic | vim-syntastic/syntastic: Syntax checking hacks for vim
+https://github.com/dense-analysis/ale | dense-analysis/ale: Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+https://github.com/SirVer/ultisnips | SirVer/ultisnips: UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+https://github.com/Shougo/neosnippet.vim | Shougo/neosnippet.vim: neo-snippet plugin
+https://github.com/ludovicchabant/vim-gutentags | ludovicchabant/vim-gutentags: A Vim plugin that manages your tag files
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk03OG-gRXVVR0xsS0rm_WQ_wAxC-og%3A1587440318535&ei=vmqeXsCXII7G-gTTnILIAQ&q=neoformat+latexindent+failed+to+run&oq=neoformat+latexindent+failed+to+run&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoFCCEQoAFQ-1VY_KABYNmjAWgAcAJ4AIABYYgB9wiSAQIxNJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwjA7qaCzPjoAhUOo54KHVOOABkQ4dUDCAs&uact=5 | neoformat latexindent failed to run - Google Search
+https://www.bountysource.com/teams/neoformat/issues | neoformat - Bountysource
+https://www.google.com/search?client=firefox-b-d&q=latexindent+nvim | latexindent nvim - Google Search
+https://github.com/dense-analysis/ale | dense-analysis/ale: Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+
+https://www.google.com/search?client=firefox-b-d&q=latex+nvim | latex nvim - Google Search
+https://github.com/Shougo/deoplete.nvim | Shougo/deoplete.nvim: Dark powered asynchronous completion framework for neovim/Vim8
+https://www.archlinux.org/packages/community/any/python-pynvim/ | Arch Linux - python-pynvim 0.4.1-1 (any)
+https://github.com/msgpack/msgpack-python | msgpack/msgpack-python: MessagePack serializer implementation for Python msgpack.org[Python]
+https://github.com/SirVer/ultisnips | SirVer/ultisnips: UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+https://github.com/honza/vim-snippets | honza/vim-snippets: vim-snipmate default snippets (Previously snipmate-snippets)
+https://yufanlu.net/2018/09/03/neovim-latex/ | Setup Neovim for Latex · Yufan Lu
+https://unix.stackexchange.com/questions/19945/auto-indent-format-code-for-vim | Auto indent / format code for Vim? - Unix & Linux Stack Exchange
+https://github.com/Chiel92/vim-autoformat | Chiel92/vim-autoformat: Provide easy code formatting in Vim by integrating existing code formatters.
+https://github.com/cmhughes/latexindent.pl | cmhughes/latexindent.pl: Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
+https://github.com/lervag/vimtex/issues/544 | Format enumerate environment with gqip exceeds specified textwidths by two chars · Issue #544 · lervag/vimtex
+https://github.com/lervag/vimtex/issues/1200 | RFC: Support external tools for formatting code e.g. latexindent.pl · Issue #1200 · lervag/vimtex
+https://vim.fandom.com/wiki/Omni_completion | Omni completion | Vim Tips Wiki | Fandom
+https://www.google.com/search?client=firefox-b-d&q=latex+table | latex table - Google Search
+https://www.latex-tutorial.com/tutorials/tables/ | LaTeX tables - Tutorial with code examples
+
+https://jdhao.github.io/2019/03/26/nvim_latex_write_preview/ | A Complete Guide on Writing LaTeX with Vimtex in Neovim - jdhao's blog
+https://jdhao.github.io/page/5/ | jdhao's blog
+https://jdhao.github.io/2020/03/14/nvim_search_replace_multiple_file/ | Search and Replace in Multiple Files in Vim/Neovim - jdhao's blog
+https://jdhao.github.io/2020/03/06/latex_writing_tips_s2/ | Tips on Writing Papers in LaTeX - jdhao's blog
+https://jdhao.github.io/2020/01/01/firenvim_nvim_inside_browser/ | Firenvim: Neovim inside Your Browser - jdhao's blog
+https://jdhao.github.io/2019/11/11/nifty_nvim_techniques_s5/ | Nifty Nvim Techniques That Make My Life Easier -- Series 5 - jdhao's blog
+https://jdhao.github.io/2019/11/03/vim_custom_statusline/ | Building A Custom Vim Statusline - jdhao's blog
+https://jdhao.github.io/2019/10/22/latex_techniques_s1/ | Nifty LaTeX Techniques -- Series 1 - jdhao's blog
+https://jdhao.github.io/2019/09/17/nifty_nvim_techniques_s4/ | Nifty Nvim Techniques That Make My Life Easier -- Series 4 - jdhao's blog
+https://jdhao.github.io/2019/09/17/writing_grammar_s1/ | A Few Grammar Questions in Writing - jdhao's blog
+https://jdhao.github.io/2019/08/16/nvim_config_folding/ | How to Create Proper Folding for Vim/Nvim Configuration - jdhao's blog
+https://jdhao.github.io/2019/06/26/movement_navigation_inside_nvim/ | Fast Movement and Navigation Inside Vim or Neovim - jdhao's blog
+https://jdhao.github.io/2019/06/06/nvim_deoplete_settings/ | Nvim Autocompletion with Deoplete - jdhao's blog
+https://jdhao.github.io/2019/05/18/nvim_exclusive_inclusive_motion/ | Exclusive and Inclusive Motion in Neovim/Vim - jdhao's blog
+https://jdhao.github.io/2019/05/14/nifty_nvim_techniques_s3/ | Nifty Nvim Techniques Which Make My Life Easier -- Series 3 - jdhao's blog
+https://jdhao.github.io/categories/Nvim/ | Nvim · jdhao's blog
+https://wiki.archlinux.org/index.php/Neovim | Neovim - ArchWiki
+https://www.google.com/search?client=firefox-b-d&q=vim+plug+for+neovim | vim plug for neovim - Google Search
+https://github.com/junegunn/vim-plug/wiki/tutorial | tutorial · junegunn/vim-plug Wiki
+https://www.linode.com/docs/tools-reference/tools/how-to-install-neovim-and-plugins-with-vim-plug/ | How to Install NeoVim and Plugins with vim-plug | Linode
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk00AXXkniEFFFBu4iNSK936sUwamJQ%3A1587432070650&ei=hkqeXrKdJ8Hb-wS9zKe4AQ&q=xdg-open+default&oq=xdg-open+default&gs_lcp=CgZwc3ktYWIQAxgAMgIIADIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIECAAQHjIGCAAQBRAeMgYIABAFEB46BAgAEEc6BggAEAcQHjoICAAQCBAHEB5QlztYij9g2k1oAHACeACAAWGIAYECkgEBM5gBAKABAaoBB2d3cy13aXo&sclient=psy-ab | xdg-open default - Google Search
+https://unix.stackexchange.com/questions/36380/how-to-properly-and-easy-configure-xdg-open-without-any-environment | files - How to properly and easy configure `xdg-open` without any environment? - Unix & Linux Stack Exchange
+
+https://github.com/SirVer/ultisnips | SirVer/ultisnips: UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+https://github.com/ycm-core/YouCompleteMe | ycm-core/YouCompleteMe: A code-completion engine for Vim
+https://vimawesome.com/?q=+YouCompleteMe | Vim Awesome
+https://www.google.com/search?client=firefox-b-d&q=YouCompleteMe+latex | YouCompleteMe latex - Google Search
+https://www.reddit.com/r/vim/comments/6xpdks/latex_youcompleteme_help/ | LaTeX YouCompleteMe help : vim
+https://www.google.com/search?client=firefox-b-d&q=YouCompleteMe+vimtex | YouCompleteMe vimtex - Google Search
+https://github.com/lervag/vimtex/issues/931 | Any help to autocomplete commands? · Issue #931 · lervag/vimtex
+https://github.com/lervag/vimtex/issues/473 | Vimtex with YouCompleteMe makes backspacing terribly slow · Issue #473 · lervag/vimtex
+https://github.com/Shougo/neocomplete.vim | Shougo/neocomplete.vim: Next generation completion framework after neocomplcache
+https://www.google.com/search?client=firefox-b-d&q=vimtex+bibtex+completion | vimtex bibtex completion - Google Search
+https://github.com/lervag/vimtex/issues/705 | bibtex completion does not work for entries added to bibtex file · Issue #705 · lervag/vimtex
+https://github.com/lervag/vimtex/issues/438 | \input and bibtex completion · Issue #438 · lervag/vimtex
+https://www.google.com/search?client=firefox-b-d&q=omni+completion+vim | omni completion vim - Google Search
+https://medium.com/usevim/vim-101-completion-compendium-97b4ebc3a45a | Vim 101: Completion Compendium - usevim - Medium
+
+https://raw.githubusercontent.com/lervag/vimtex/master/doc/vimtex.txt | raw.githubusercontent.com/lervag/vimtex/master/doc/vimtex.txt
+https://github.com/lervag/vimtex/blob/master/autoload/vimtex/view/mupdf.vim | vimtex/mupdf.vim at master · lervag/vimtex
+https://vim.fandom.com/wiki/Backward_search_for_LaTeX_documents | Backward search for LaTeX documents | Vim Tips Wiki | Fandom
+http://vim-latex.sourceforge.net/documentation/latex-suite/forward-searching.html | 7.2 Forward Searching documents
+https://wikimatze.de/talk-about-copymatch-and-dadbod-for-vim/ | Talk about copymatch and dadbod for vim
+https://wikimatze.de/talk-about-devdocs-for-vim/ | Talk about devdocs for vim
+https://wikimatze.de/talk-about-flog-a-git-branch-extension-for-vim/ | Talk about Vim flog
+https://wikimatze.de/ranger-a-terminal-browser-for-vim/ | Ranger a terminal browser for Vim
+https://wikimatze.de/vimtex-the-perfect-tool-for-working-with-tex-and-vim/ | Vimtex tool for working Vim, tex and Zathura
+https://wikimatze.de/better-zsh-with-prezto/ | Better zsh with Prezto
+https://wikimatze.de/using-grub-customizer-to-manage-the-bootloader/ | Using Grub Customizer to manage the Bootloader
+https://wikimatze.de/talk-about-git-and-vim-maximize-the-joy-and-fun/ | Talk about Git and Vim - maximize the joy and fun
+https://wikimatze.de/show-the-most-common-used-terminal-commands/ | Show the most common used terminal commands
+https://wikimatze.de/highlight-bad-words-in-vim/ | Highlight Bad Words In Vim
+https://vim.fandom.com/wiki/Enable_servername_capability_in_vim/xterm | Enable servername capability in vim/xterm | Vim Tips Wiki | Fandom
+https://mg.readthedocs.io/latexmk.html | Using Latexmk — homepage
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk029eaQzKH01ECtyTMGf4c54hUp6gg%3A1587427320156&ei=-DeeXomYCaeu0PEPpLucmAE&q=vimtex+synctex&oq=vimtex+synctex&gs_lcp=CgZwc3ktYWIQAzICCAA6BAgAEEdQ8l5Y8l5g8mFoAHACeACAAU6IAU6SAQExmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwiJ9JjMm_joAhUnFzQIHaQdBxMQ4dUDCAs&uact=5 | vimtex synctex - Google Search
+https://github.com/lervag/vimtex/issues/117 | Synctex forward search: how does it work? · Issue #117 · lervag/vimtex
+https://tex.stackexchange.com/questions/408783/make-latexmk-4-54c-use-synctex-with-xelatex | xetex - Make latexmk 4.54c use synctex with xelatex - TeX - LaTeX Stack Exchange
+https://gist.github.com/vext01/16df5bd48019d451e078 | Vim+Zathura+Synctex
+https://github.com/lervag/vimtex/issues/206 | Synctex with Zathura (linux, easy) · Issue #206 · lervag/vimtex
+http://www.math.cmu.edu/~gautam/sj/blog/20140310-zathura-fsearch.html | LaTeX forward/inverse searches with Zathura
+https://www.google.com/search?client=firefox-b-d&q=servername+in+vim | servername in vim - Google Search
+https://stackoverflow.com/questions/31543076/what-is-the-servername-in-vim-servername-vim-test-r | linux - What is the "--servername" in "vim --servername VIM test.R"? - Stack Overflow
+
+https://vimawesome.com/ | Vim Awesome
+https://github.com/stefanhepp/pplatex | stefanhepp/pplatex: Pretty-Print LaTeX: A tool to reformat the output of latex and friends into readable messages
+https://github.com/dense-analysis/ale | dense-analysis/ale: Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+https://github.com/vim-syntastic/syntastic | vim-syntastic/syntastic: Syntax checking hacks for vim
+https://github.com/SirVer/ultisnips | SirVer/ultisnips: UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+https://github.com/ludovicchabant/vim-gutentags | ludovicchabant/vim-gutentags: A Vim plugin that manages your tag files
+https://medium.com/rahasak/vim-as-my-latex-editor-f0c5d60c66fa | Vim as my LaTeX editor - Rahasak-Labs - Medium
+https://vimways.org/2019/ | Vimways ~ 2019
+https://castel.dev/post/lecture-notes-1/ | How I'm able to take notes in mathematics lectures using LaTeX and Vim | Gilles Castel
+https://castel.dev/post/lecture-notes-2/ | How I draw figures for my mathematical lecture notes using Inkscape | Gilles Castel
+https://castel.dev/post/lecture-notes-3/ | How I manage my LaTeX lecture notes | Gilles Castel
+https://github.com/SirVer/ultisnips | SirVer/ultisnips: UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+https://wiki.archlinux.org/index.php/Xorg#Automation | Xorg - ArchWiki
+https://www.google.com/search?client=firefox-b-d&q=vimtex+compile | vimtex compile - Google Search
+https://github.com/lervag/vimtex/issues/906 | vimtex not compiling on write · Issue #906 · lervag/vimtex
+https://www.google.com/search?q=vimtex&client=firefox-b-d&sxsrf=ALeKk02U3-lezJ01cXBs8D9Nfn9CWFM0Aw:1587423825068&source=lnms&tbm=vid&sa=X&ved=2ahUKEwit1M3JjvjoAhW3GTQIHZW1CnUQ_AUoAXoECAkQAw&biw=1596&bih=737 | vimtex - Google Search
+https://www.google.com/search?client=firefox-b-d&q=vimtex+commands | vimtex commands - Google Search
+https://github.com/lervag/vimtex/wiki/usage | Usage · lervag/vimtex Wiki
+https://vi.stackexchange.com/questions/14655/vimtex-commands-only-working-on-main-file | filetype tex - Vimtex commands only working on main file - Vi and Vim Stack Exchange
+https://wikimatze.de/vimtex-the-perfect-tool-for-working-with-tex-and-vim/ | Vimtex tool for working Vim, tex and Zathura
+http://vim-latex.sourceforge.net/documentation/latex-suite/forward-searching.html | 7.2 Forward Searching documents
+https://vim.fandom.com/wiki/Backward_search_for_LaTeX_documents | Backward search for LaTeX documents | Vim Tips Wiki | Fandom
+https://www.reddit.com/r/neovim/comments/anik89/plugin_vimtex_not_showing_any_commands/ | Plugin (vimtex) not showing any commands : neovim
+https://github.com/Shougo/deoplete.nvim | Shougo/deoplete.nvim: Dark powered asynchronous completion framework for neovim/Vim8
+https://github.com/SirVer/ultisnips | SirVer/ultisnips: UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+https://github.com/honza/vim-snippets | honza/vim-snippets: vim-snipmate default snippets (Previously snipmate-snippets)
+https://github.com/Shougo/deoplete.nvim | Shougo/deoplete.nvim: Dark powered asynchronous completion framework for neovim/Vim8
+https://github.com/ycm-core/YouCompleteMe | ycm-core/YouCompleteMe: A code-completion engine for Vim
+https://github.com/ncm2/ncm2 | ncm2/ncm2: Slim, Fast and Hackable Completion Framework for Neovim
+https://learnvimscriptthehardway.stevelosh.com/chapters/06.html#local-leader | Leaders / Learn Vimscript the Hard Way
+
+https://www.google.com/search?client=firefox-b-d&q=tmux+is+awesome | tmux is awesome - Google Search
+https://github.com/rothgar/awesome-tmux | rothgar/awesome-tmux: A list of awesome resources for tmux
+https://github.com/gpakosz/.tmux | gpakosz/.tmux: 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
+https://github.com/tmux-plugins/tpm | tmux-plugins/tpm: Tmux Plugin Manager
+https://github.com/tmux-plugins/tpm/issues/127 | Can't install plugins · Issue #127 · tmux-plugins/tpm
+https://github.com/tmux-plugins/tpm | tmux-plugins/tpm: Tmux Plugin Manager
+https://github.com/tmux-plugins/tpm/issues/123 | Plug-ins not loaded from custom dir when configuration not in default location · Issue #123 · tmux-plugins/tpm
+https://gist.github.com/spicycode/1229612 | The best and greatest tmux.conf ever
+
+https://www.nordtheme.com/ports/tmux | Nord
+https://www.reddit.com/r/unixporn/comments/3cn5gi/tmux_is_my_wm_on_os_x/ | [tmux] is my WM on OS x : unixporn
+https://pragprog.com/book/bhtmux/tmux | tmux: Productive Mouse-Free Development by Brian P. Hogan | The Pragmatic Bookshelf
+https://gist.github.com/MohamedAlaa/2961058 | tmux shortcuts & cheatsheet
+https://lukaszwrobel.pl/blog/tmux-tutorial-split-terminal-windows-easily/ | tmux Tutorial — Split Terminal Windows Easily - Lukasz Wrobel
+http://openbox.org/wiki/Main_Page | Openbox
+https://awesomewm.org/apidoc/?redirected_from_wiki=1 | awesome API documentation
+https://github.com/junegunn/goyo.vim | junegunn/goyo.vim: Distraction-free writing in Vim
+https://www.hamvocke.com/blog/moving-on/ | Moving On
+https://www.hamvocke.com/blog/makefiles-for-accessibility/ | Using 'make' to Make Your Code More Accessible
+https://www.hamvocke.com/blog/remote-pair-programming-with-tmux/ | Remote Pair Programming Made Easy with SSH and tmux
+https://www.hamvocke.com/blog/commandline-fun/ | Fun and Useless Tools for Your Command Line
+https://unix.stackexchange.com/questions/128190/tmux-exits-immediately-after-starting | tmux exits immediately after starting - Unix & Linux Stack Exchange
+https://www.google.com/search?client=firefox-b-d&q=iterm2 | iterm2 - Google Search
+
+https://st.suckless.org/ | st - simple terminal | suckless.org software that sucks less
+https://github.com/arcticicestudio/nord/issues/89 | st theme · Issue #89 · arcticicestudio/nord
+https://github.com/arcticicestudio/nord | arcticicestudio/nord: An arctic, north-bluish color palette.
+https://github.com/LukeSmithxyz/st | LukeSmithxyz/st: Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
+https://wiki.archlinux.org/index.php/St | st - ArchWiki
+https://wiki.archlinux.org/index.php/PKGBUILD | PKGBUILD - ArchWiki
+https://st.suckless.org/ | st - simple terminal | suckless.org software that sucks less
+
+https://github.com/alacritty/alacritty | alacritty/alacritty: A cross-platform, GPU-accelerated terminal emulator
+https://www.google.com/search?q=airline+vim&client=firefox-b-d&sxsrf=ALeKk01KpFx2qih2b4qJbwQd0HI5wCLdqg:1587342959313&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjMxOep4fXoAhWTv54KHe4IDqcQ_AUoAnoECAkQBA&biw=1596&bih=737#imgrc=pVwFBod841vFfM | airline vim - Google Search
+https://github.com/vim-airline/vim-airline/issues/1688 | No arrows, only rectangles · Issue #1688 · vim-airline/vim-airline
+https://www.google.com/search?client=firefox-b-d&q=linenr+vim | linenr vim - Google Search
+https://github.com/vim-airline/vim-airline | vim-airline/vim-airline: lean & mean status/tabline for vim that's light as air
+https://thoughtbot.com/blog | Giant Robots Smashing Into Other Giant Robots
+
+https://www.google.com/search?client=firefox-b-d&q=nord+vim+color+scheme | nord vim color scheme - Google Search
+https://www.nordtheme.com/docs/ports/vim/installation | Nord
+https://www.nordtheme.com/ports/vim | Nord
+https://draculatheme.com/gnome-terminal | Dark theme for Gnome Terminal and 100+ apps — Dracula
+https://www.google.com/search?client=firefox-b-d&q=Terminal+Colors+expaline | Terminal Colors expaline - Google Search
+https://askubuntu.com/questions/17299/what-do-the-different-colors-mean-in-ls | command line - What do the different colors mean in ls? - Ask Ubuntu
+https://www.linuxquestions.org/questions/linux-newbie-8/terminal-font-colors-what-does-they-mean-857846/ | Terminal font colors, what does they mean?
+https://misc.flogisoft.com/bash/tip_colors_and_formatting | bash:tip_colors_and_formatting - FLOZz' MISC
+https://misc.flogisoft.com/bash/tip_customize_the_shell_prompt | bash:tip_customize_the_shell_prompt - FLOZz' MISC
+https://unix.stackexchange.com/questions/148/colorizing-your-terminal-and-shell-environment | bash - Colorizing your terminal and shell environment? - Unix & Linux Stack Exchange
+https://averagelinuxuser.com/linux-terminal-color/ | My Linux terminal color scheme | Average Linux User
+https://wynnnetherland.com/journal/a-stylesheet-author-s-guide-to-terminal-colors/ | A stylesheet author’s guide to terminal colors | Wynn Netherland
+https://www.google.com/search?client=firefox-b-d&q=rxvt-256color | rxvt-256color - Google Search
+https://unix.stackexchange.com/questions/196488/set-urxvt-to-work-with-256-colors | xterm - Set urxvt to work with 256 colors - Unix & Linux Stack Exchange
+http://scie.nti.st/2008/10/13/get-rxvt-unicode-with-256-color-support-on-ubunut/ | Get rxvt-unicode with 256 color support on Ubuntu - scie.nti.st
+https://wiki.archlinux.org/index.php/Rxvt-unicode | rxvt-unicode - ArchWiki
+https://www.google.com/search?client=firefox-b-d&q=nord+xrvt | nord xrvt - Google Search
+https://github.com/arcticicestudio/nord-xresources/tree/develop/src | nord-xresources/src at develop · arcticicestudio/nord-xresources
+https://wiki.archlinux.org/index.php/X_resources | X resources - ArchWiki
+https://www.reddit.com/r/unixporn/comments/5vdwgl/urxvt_colorsheme/ | Urxvt colorsheme : unixporn
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk00tVAjrYRbQ_OIXIVr3oyWJJuisxQ%3A1587342022709&ei=xuqcXvHuKuTb9AO0kY-4AQ&q=vim+airline+square&oq=vim+airline+sq&gs_lcp=CgZwc3ktYWIQAxgAMgYIABAWEB46BAgAEEc6AggAOgcIABAUEIcCUN63AliuuQJgmsYCaABwA3gAgAFYiAGiAZIBATKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab | vim airline square - Google Search
+https://www.google.com/search?client=firefox-b-d&q=ariline+nord+vim | ariline nord vim - Google Search
+https://www.reddit.com/r/vim/comments/8eu6iu/most_complete_vimterminal_colour_theme/ | Most complete VIM/terminal colour theme : vim
+https://github.com/morhetz/gruvbox | morhetz/gruvbox: Retro groove color scheme for Vim
+https://github.com/chriskempson/base16-shell | chriskempson/base16-shell: Base16 for Shells
+https://github.com/base16-templates/base16-xresources | base16-templates/base16-xresources: Base16 for Xresources
+https://github.com/alacritty/alacritty/wiki/Color-schemes | Color schemes · alacritty/alacritty Wiki
+https://github.com/edouard-lopez/tmux-tomorrow | edouard-lopez/tmux-tomorrow: 5 flavors of Tomorrow theme based on specifications from Tomorrow Theme (i.e. dark/blue and light).
+https://github.com/nicodebo/base16-fzf | nicodebo/base16-fzf: base16 colors for fzf fuzzy finder
+https://github.com/chriskempson/base16-vim | chriskempson/base16-vim: Base16 for Vim
+https://github.com/vim-airline/vim-airline-themes | vim-airline/vim-airline-themes: A collection of themes for vim-airline
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk00iYdl3hoUOV8KI9uS7hDaGgC5raA%3A1587342100635&ei=FOucXvyzJtX89AO8hYSwBw&q=vim+airline+nord+theme&oq=nord+vim+airlin&gs_lcp=CgZwc3ktYWIQARgBMgIIADIGCAAQFhAeOgQIABBHUIkmWIcwYIRAaABwA3gAgAGuAogBlQWSAQU1LjMtMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab | vim airline nord theme - Google Search
+https://github.com/arcticicestudio/nord-vim | arcticicestudio/nord-vim: An arctic, north-bluish clean and elegant Vim theme.
+https://github.com/vim-airline/vim-airline-themes/blob/master/autoload/airline/themes/base16_nord.vim | vim-airline-themes/base16_nord.vim at master · vim-airline/vim-airline-themes
+https://github.com/CompletelyGeneric/dotfiles/blob/master/.vimrc | dotfiles/.vimrc at master · CompletelyGeneric/dotfiles
+https://github.com/majutsushi/tagbar | majutsushi/tagbar: Vim plugin that displays tags in a window, ordered by scope
+https://www.google.com/search?client=firefox-b-d&q=youcompleteme | youcompleteme - Google Search
+https://www.google.com/search?client=firefox-b-d&q=vim-indent-guides | vim-indent-guides - Google Search
+
+https://draculatheme.com/tabletop-simulator | Dark theme for Tabletop Simulator and 100+ apps — Dracula
+
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk005USHRHXun5wzpfgxjRYpYNucq9w%3A1587335009627&ei=Yc-cXtnlJc2t0PEPwaWouAI&q=nord++i3&oq=nord++i3&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEEc6BAgjECc6BAgAEEM6BwgAEBQQhwI6BQgAEIMBOgQIABAKUI82WLM6YJ88aABwA3gAgAFliAGNApIBAzIuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiZmo3bw_XoAhXNFjQIHcESCicQ4dUDCAs&uact=5 | nord i3 - Google Search
+https://www.nordtheme.com/ | Nord
+https://www.nordtheme.com/docs/colors-and-palettes | Nord
+https://github.com/danipozo/i3-nord-dotfiles | danipozo/i3-nord-dotfiles
+https://github.com/devdevdevdevdeo/dotfiles | devdevdevdevdeo/dotfiles
+https://www.reddit.com/r/unixporn/comments/7l4uec/i3_nord_everything/ | [i3] Nord everything : unixporn
+https://github.com/alexciarlillo/dotfiles | alexciarlillo/dotfiles: Couple basic dotfiles.
+https://github.com/decaruju/dotfiles | decaruju/dotfiles: My dotfiles for manjaro-i3 with polybar, rofi, urxvt and qutebrowser
+https://draculatheme.com/pro#get | Dracula PRO — Be more productive
+https://www.npmjs.com/package/good-listener | good-listener - npm
+https://draculatheme.com/alacritty | Dark theme for Alacritty and 100+ apps — Dracula
+https://draculatheme.com/chrome | Dark theme for Chrome and 100+ apps — Dracula
+https://draculatheme.com/duckduckgo | Dark theme for DuckDuckGo and 100+ apps — Dracula
+https://draculatheme.com/emacs | Dark theme for Emacs and 100+ apps — Dracula
+https://draculatheme.com/firefox | Dark theme for Firefox and 100+ apps — Dracula
+https://draculatheme.com/facebook-messenger | Dark theme for Facebook Messenger and 100+ apps — Dracula
+https://draculatheme.com/i3 | Dark theme for i3 and 100+ apps — Dracula
+https://draculatheme.com/qutebrowser | Dark theme for Qutebrowser and 100+ apps — Dracula
+https://draculatheme.com/steam | Dark theme for Steam and 100+ apps — Dracula
+https://draculatheme.com/slack | Dark theme for Slack and 100+ apps — Dracula
+https://draculatheme.com/telegram | Dark theme for Telegram and 100+ apps — Dracula
+https://draculatheme.com/termux | Dark theme for Termux and 100+ apps — Dracula
+https://draculatheme.com/termite | Dark theme for Termite and 100+ apps — Dracula
+https://draculatheme.com/telegram-android | Dark theme for Telegram Android and 100+ apps — Dracula
+https://draculatheme.com/tilix | Dark theme for Tilix and 100+ apps — Dracula
+https://draculatheme.com/ulauncher | Dark theme for Ulauncher and 100+ apps — Dracula
+https://draculatheme.com/vim | Dark theme for Vim and 100+ apps — Dracula
+https://draculatheme.com/vimium | Dark theme for Vimium and 100+ apps — Dracula
+https://draculatheme.com/visual-studio-code | Dark theme for Visual Studio Code and 100+ apps — Dracula
+https://draculatheme.com/xresources | Dark theme for Xresources and 100+ apps — Dracula
+https://draculatheme.com/zsh | Dark theme for Zsh and 100+ apps — Dracula
+https://draculatheme.com/pro#get | Dracula PRO — Be more productive
+https://www.google.com/search?client=firefox-b-d&q=dracula+theme+i3 | dracula theme i3 - Google Search
+https://github.com/dracula/i3 | dracula/i3: 🧛🏻‍♂️ Dark theme for i3
+https://draculatheme.com/i3/ | Dark theme for i3 and 100+ apps — Dracula
+https://www.reddit.com/r/unixporn/comments/656sme/i3_dracula/ | [i3] Dracula : unixporn
+
+https://github.com/notthebee | notthebee (Wolfgang)
+https://www.google.com/search?client=firefox-b-d&q=dracula | dracula - Google Search
+https://www.google.com/search?client=firefox-b-d&q=gruvbox | gruvbox - Google Search
+https://www.google.com/search?client=firefox-b-d&q=solorized | solorized - Google Search
+https://www.google.com/search?client=firefox-b-d&q=nord | nord - Google Search
+https://www.google.com/search?client=firefox-b-d&q=pywal | pywal - Google Search
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk03J3rzfAqMAweKM95hEFIrE5VYy1g:1587331504539&q=wallpaper+based+on+color+scheme&spell=1&sa=X&ved=2ahUKEwi13t_TtvXoAhVIJzQIHYJpChoQBSgAegQIDBAn&biw=1596&bih=737 | wallpaper based on color scheme - Google Search
+https://www.google.com/search?client=firefox-b-d&q=wallpaper+nord+theme | wallpaper nord theme - Google Search
+https://www.reddit.com/r/unixporn/comments/5z5h6x/wallpapers_which_look_good_with_nord_color_palette/ | Wallpapers which look good with Nord color palette? : unixporn
+https://www.reddit.com/r/unixporn/comments/6dbqb3/bspwm_polybar_thank_the_nord_for_matching_colors/ | [bspwm + polybar] Thank the Nord for matching colors. : unixporn
+https://github.com/arcticicestudio/nord | arcticicestudio/nord: An arctic, north-bluish color palette.
+https://github.com/adobe-fonts/source-code-pro | adobe-fonts/source-code-pro: Monospaced font family for user interface and coding environments
+https://github.com/baskerville/bspwm | baskerville/bspwm: A tiling window manager based on binary space partitioning
+https://davedavenport.github.io/rofi/ | Site not found · GitHub Pages
+https://github.com/chjj/compton | chjj/compton: A compositor for X11.
+https://github.com/polybar/polybar | polybar/polybar: A fast and easy-to-use status bar
+https://github.com/Takmo/dotfiles/tree/master/roles | dotfiles/roles at master · Takmo/dotfiles
+https://github.com/Takmo/dotfiles/tree/master/roles/common/files | dotfiles/roles/common/files at master · Takmo/dotfiles
+https://github.com/sonph/onehalf | sonph/onehalf: Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.
+https://www.keybr.com/ | Typing practice
+
+https://wiki.archlinux.org/index.php/Power_management/Suspend_and_hibernate | Power management/Suspend and hibernate - ArchWiki
+https://wiki.archlinux.org/index.php/Kernel_parameters | Kernel parameters - ArchWiki
+
+https://i3wm.org/docs/userguide.html | i3: i3 User’s Guide
+
+https://stackoverflow.com/questions/29576815/difference-between-echo-and-echo-in-unix-shells | linux - Difference between echo and @echo in unix shells - Stack Overflow
+https://linux.die.net/man/2/mkdir | mkdir(2): create directory - Linux man page
+https://git-scm.com/book/en/v2/Git-Tools-Submodules | Git - Submodules
+https://linux.die.net/man/8/stow | stow(8): software package installation manager - Linux man page
+https://github.com/cuileon/vim8/blob/master/vimrc | vim8/vimrc at master · cuileon/vim8
+https://www.google.com/search?client=firefox-b-d&q=gnu+stow+tutorial | gnu stow tutorial - Google Search
+https://linuxconfig.org/how-to-use-gnu-stow-to-manage-programs-installed-from-source-and-dotfiles | How to use GNU Stow to manage programs installed from source and dotfiles - LinuxConfig.org
+http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html | Brandon Invergo - Using GNU Stow to manage your dotfiles
+https://writingco.de/blog/how-i-manage-my-dotfiles-using-gnu-stow/ | How I manage my dotfiles using GNU Stow | Writing Co.De
+https://wiki.archlinux.org/index.php/Ranger | ranger - ArchWiki
+https://stackoverflow.com/questions/816370/how-do-you-force-a-makefile-to-rebuild-a-target | linux - How do you force a makefile to rebuild a target - Stack Overflow
+https://www.google.com/search?client=firefox-b-d&q=makefile+.phony | makefile .phony - Google Search
+https://stackoverflow.com/questions/2145590/what-is-the-purpose-of-phony-in-a-makefile | What is the purpose of .PHONY in a makefile? - Stack Overflow
+https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally | Vim Splits - Move Faster and More Naturally
+https://www.google.com/search?client=firefox-b-d&q=urxvt | urxvt - Google Search
+https://www.vim.org/scripts/script.php?script_id=4958 | AdvancedSorters - Sorting of certain areas or by special needs. : vim online
+https://www.google.com/search?client=firefox-b-d&q=bug+tracker | bug tracker - Google Search
+https://github.com/plasticboy/vim-markdown | plasticboy/vim-markdown: Markdown Vim Mode
+https://superuser.com/questions/185184/where-should-i-put-my-script | ubuntu - Where should I put my script? - Super User
+https://www.thegeekstuff.com/2010/05/bash-variables/ | Bash Variable Tutorial – 6 Practical Bash Global and Local Variable Examples
+https://bbs.archlinux.org/viewtopic.php?id=249129 | [SOLVED] i3bar or i3blocks not working as they wish / Applications & Desktop Environments / Arch Linux Forums
+https://www.reddit.com/r/i3wm/comments/7562mq/where_should_i_copy_i3blockss_blocks_from/ | Where Should I Copy I3Blocks's Blocks from /usr/share/i3blocks In Home? : i3wm
+https://vivien.github.io/i3blocks/ | i3blocks
+https://www.thegeekstuff.com/2013/05/date-command-examples/ | 7 Linux Date Command Examples to Display and Set System Date Time
+https://www.google.com/search?client=firefox-b-d&q=good+battery+script+i3blocks | good battery script i3blocks - Google Search
+https://github.com/vivien/i3blocks-contrib | vivien/i3blocks-contrib: Official repository for community contributed blocklets
+https://gist.github.com/vivien/9965922 | battery script for i3blocks
+https://developer.gnome.org/pango/stable/pango-Markup.html | Markup: Pango Reference Manual
+https://github.com/alacritty/alacritty/blob/master/alacritty.yml | alacritty/alacritty.yml at master · alacritty/alacritty
+https://dev.to/amritpandey/the-minimalist-terminal-setup-i5o | The Minimalist Terminal Setup - DEV Community 👩‍💻👨‍💻
+https://jwilm.io/blog/announcing-alacritty/ | Announcing Alacritty, a GPU-accelerated terminal emulator
+https://auth.mozilla.auth0.com/login?state=g6Fo2SBTVGNSV3RiMVpJRmk1ZkxHU2dmeF9tUFNnVDNsbjJjZKN0aWTZIGduUFVjaWgxV05Bbko1aWE2ZkJXQzMwNVpHbGFtbHNpo2NpZNkgN2V1WGVxOTZnbFdVUzg1YndEUkNDczEweEtHWTkzdDA&client=7euXeq96glWUS85bwDRCCs10xKGY93t0&protocol=samlp&SAMLRequest=nVLLTsMwEPyVyPc8KRVYTaTQClGp0NAEDlwqk25bS44dvHaBv8dJiygHcuDo2dmd2VlPkDWipbk1e7mCNwtovI9GSKR9ISVWS6oYcqSSNYDU1LTM7xc0CSLaamVUrQTxvPksJeurcRxF0dg9n0EjVzIljtZVES3MJRomjcOiJPKjkR8nVXxNLy9oMnpxpFula%2BiNpGTLBELfWDBEfoAfqDiJ3nC54XI37PD1SEJ6V1WFXyzLyk3IEUEbZ2%2BqJNoGdAn6wGt4Wi1SsjemRRqGSgou4aMFzUHWgEGtmnAFO45Gs645LMvluhMKGLYk8yZdYLTfVJ9FOOyPfVsh2ZDwJDwbfpJq6YMbN58VSvD6819Hc4k3zPxNj4O4R%2FjG3%2FZUaiW2UPMthw3xyqJz8GiZ6AA9nB3xciHU%2B1QDM%2B6aRlt3zDA7bvb7A2Zf | Mozilla Login
+https://jwilm.io/blog/alacritty-lands-scrollback/ | Alacritty now supports scrollback
+https://blog.christianduerr.com/alacritty_030_announcement | Problem loading page
+https://github.com/alacritty/vtebench | alacritty/vtebench: Generate benchmarks for terminal emulators
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk01TKcoSxu6OecPtBd_McBQymjqpsw%3A1586721412488&ei=hHKTXuStHeW_0PEPoI6z4AQ&q=alacritty+default+font&oq=alacritty+default+font&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgUIABDNAjIFCAAQzQIyBQgAEM0COgQIABBHOgQIIxAnOgUIABCRAjoFCAAQgwE6BAgAEEM6BAgAEAo6BwgjELECECc6BwgjELACECc6BAgAEA06BggAEBYQHkorCBcSJzBnMTE2ZzgzZzk5Zzg3ZzgwZzg0ZzEwNmc5MGc4NGc0Nmc5MGc4NUodCBgSGTBnMWcxZzFnMWcxZzFnMWcxZzFnNmczZzdQkitY3lxgnV5oAHAEeACAAV2IAc0LkgECMjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwjk_5fx1ePoAhXlHzQIHSDHDEwQ4dUDCAs&uact=5 | alacritty default font - Google Search
+https://fontawesome.com/cheatsheet | Cheatsheet | Font Awesome
+
+https://www.youtube.com/results?search_query=dotfile | dotfile - YouTube
+https://www.youtube.com/watch?v=MJBVA4LeJKA | Manage Your Dotfiles With Style! - YouTube
+https://github.com/notthebee/dotfiles | notthebee/dotfiles: Config files for my Linux/Unix workspace
+https://cmus.github.io/ | C* Music Player
+https://www.google.com/search?client=firefox-b-d&q=i3blocks+scripts | i3blocks scripts - Google Search
+https://github.com/search?o=desc&p=3&q=dotfiles&s=stars&type=Repositories | Search · dotfiles
+https://github.com/spf13/spf13-vim | spf13/spf13-vim: The ultimate vim distribution
+https://github.com/mathiasbynens/dotfiles | mathiasbynens/dotfiles: .files, including ~/.macos — sensible hacker defaults for macOS
+https://github.com/lewagon/dotfiles | lewagon/dotfiles: Default configuration for Le Wagon's students
+https://github.com/skwp/dotfiles | skwp/dotfiles: YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
+https://github.com/thoughtbot/dotfiles | thoughtbot/dotfiles: A set of vim, zsh, git, and tmux configuration files.
+https://github.com/holman/dotfiles | holman/dotfiles: @holman does dotfiles
+https://github.com/webpro/awesome-dotfiles | webpro/awesome-dotfiles: A curated list of dotfiles resources.
+https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
+https://github.com/anishathalye/dotbot | anishathalye/dotbot: A tool that bootstraps your dotfiles ⚡️
+https://github.com/jessfraz/dotfiles | jessfraz/dotfiles: My dotfiles. Buyer beware ;)
+https://github.com/adi1090x/polybar-themes | adi1090x/polybar-themes: A collection of polybar themes/configs with different styles, colors and variants
+https://github.com/wsdjeg/DotFiles | wsdjeg/DotFiles: My dotfiles for Archlinux and Windows
+https://forum.manjaro.org/t/i3blocks-some-scripts-battery-cpu-usage-internet-speed-not-working-solved/30683 | I3blocks: some scripts(Battery, CPU usage, internet speed) not working[Solved] - Technical Issues and Assistance / Applications - Manjaro Linux Forum
+https://gitlab.com/billGR17/i3blocks-Scripts | Bill / i3blocks-Scripts · GitLab
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk01nuycPg40ZaEtd2Q1oUP5BgnT1Ng:1586657057707&q=i3blocks+themes&sa=X&ved=2ahUKEwiD8beS5uHoAhUHITQIHYBBCrEQ1QIoAHoECAsQAQ | i3blocks themes - Google Search
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk004_cz-vafvjhxGxqbuj2JdkpaFdA%3A1586657301490&ei=FXiSXu3EHayV0PEPno-a4Ak&q=stow+linux&oq=stow+linux&gs_lcp=CgZwc3ktYWIQAzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzoECAAQR0oMCBcSCDQtNDVnMTE2SgkIGBIFNC0yZzFQ7ShYrDRgizZoAHACeACAAVKIAVKSAQExmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwito9eG5-HoAhWsCjQIHZ6HBpwQ4dUDCAs&uact=5 | stow linux - Google Search
+https://www.gnu.org/software/stow/manual/stow.html | Stow
+https://www.google.com/search?client=firefox-b-d&q=makefile+tutorial | makefile tutorial - Google Search
+https://www.google.com/search?client=firefox-b-d&q=manage+dotfiles+with+stow | manage dotfiles with stow - Google Search
+https://github.com/alexpearce/dotfiles | alexpearce/dotfiles: My dotfiles.
+https://medium.com/@waterkip/my-git-workflow-7f2c145c9d6d | My git workflow explained - Wesley Schwengle - Medium
+https://github.com/thnukid/dotfiles | thnukid/dotfiles: These are my dotfiles. There are many like them, but these ones are mine.
+https://dunst-project.org/screenshots/ | Screenshots · Dunst
+
+https://github.com/Kharacternyk/dotcommon | Kharacternyk/dotcommon: What do people have in their dotfiles?
+https://wiki.archlinux.org/index.php/Polybar | Polybar - ArchWiki
+https://www.reddit.com/r/i3wm/comments/8jpa4m/what_cool_things_do_you_guys_have_on_your/ | What cool things do you guys have on your i3status config? : i3wm
+https://github.com/onetwopunch/dotfiles/tree/master/Scripts | dotfiles/Scripts at master · onetwopunch/dotfiles
+https://github.com/addy-dclxvi/i3-starterpack/blob/master/.config/i3/config | i3-starterpack/config at master · addy-dclxvi/i3-starterpack
+http://ryan.himmelwright.net/post/started-using-i3blocks/ | Refreshing my i3 setup with i3blocks -- λ ryan. himmelwright. net
+https://i3wm.org/i3status/manpage.html | i3: i3status(1)
+https://gist.github.com/rafi/6063132 | Rafi's i3status configuration file
+https://medium.com/hacker-toolbelt/my-i3status-customization-3e8ad6f0153a | My i3status customization - Hacker Toolbelt - Medium
+https://medium.com/hacker-toolbelt/my-i3status-customization-3e8ad6f0153a | My i3status customization - Hacker Toolbelt - Medium
+https://www.google.com/search?client=firefox-b-d&q=i3status+vs+i3blocks | i3status vs i3blocks - Google Search
+https://github.com/polybar/polybar | polybar/polybar: A fast and easy-to-use status bar
+https://wiki.archlinux.org/index.php/Conky | Conky - ArchWiki
+https://i3wm.org/docs/user-contributed/conky-i3bar.html | i3 - improved tiling wm
+https://www.reddit.com/r/unixporn/comments/72bkkg/i3gaps_a_little_past_midnight/ | [i3-gaps] A little past midnight... : unixporn
+https://github.com/vivien/i3blocks | vivien/i3blocks: A feed generator for text based status bars
+https://github.com/adi1090x/polybar-themes/blob/master/README.md | polybar-themes/README.md at master · adi1090x/polybar-themes
+https://github.com/vivien/i3blocks | vivien/i3blocks: A feed generator for text based status bars
+https://www.google.com/search?client=firefox-b-d&q=i3blocks+tutorial | i3blocks tutorial - Google Search
+https://extendedreality.wordpress.com/2016/12/04/blocks-of-i3blocks-stuff-that-rocks/ | Blocks of i3blocks: stuff that rocks – Extended Reality
+https://www.reddit.com/r/i3wm/comments/2hnpyn/i3blocks_config/ | i3blocks config : i3wm
+https://www.reddit.com/r/i3wm/comments/7xxdk6/how_to_display_icons_on_i3blocks_or_i3status/ | How to display icons on i3blocks or i3status? : i3wm
+https://github.com/vivien/i3blocks-contrib/blob/master/config.example | i3blocks-contrib/config.example at master · vivien/i3blocks-contrib
+https://www.reddit.com/r/i3wm/comments/2hnpyn/i3blocks_config/ | i3blocks config : i3wm
+https://github.com/vivien/i3blocks-contrib/blob/master/config.example | i3blocks-contrib/config.example at master · vivien/i3blocks-contrib
+https://www.reddit.com/r/i3wm/comments/7562mq/where_should_i_copy_i3blockss_blocks_from/ | i3 Window Manager
+https://github.com/DirkReinemann/i3blocks-scripts | DirkReinemann/i3blocks-scripts: Scripts for i3blocks.
+https://github.com/topics/i3blocks-scripts | i3blocks-scripts · GitHub Topics
+https://extendedreality.wordpress.com/2016/12/04/blocks-of-i3blocks-stuff-that-rocks/ | Blocks of i3blocks: stuff that rocks – Extended Reality
+https://github.com/vivien/i3blocks#example | vivien/i3blocks: A feed generator for text based status bars
+https://github.com/vivien/i3blocks-contrib | vivien/i3blocks-contrib: Official repository for community contributed blocklets
+https://github.com/vivien/i3blocks | vivien/i3blocks: A feed generator for text based status bars
+https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg/videos?view=0&sort=da&flow=grid | DistroTube - YouTube
+https://www.youtube.com/watch?v=gKumet6b-WY | i3blocks Status Bar (RELOADED) - YouTube
+https://github.com/lukesmithxyz/voidrice | LukeSmithxyz/voidrice: My dotfiles (deployed by LARBS)
+https://lukesmith.xyz/ | Luke Smith's Homepage
+https://www.youtube.com/watch?v=6oY9BnMeQu0 | Siduction LXQt First Impression Install & Review - YouTube
+https://www.youtube.com/watch?v=DEoS49inzSw | Qtile - Tiling Window Manager Written in Python - YouTube
+https://www.youtube.com/watch?v=47kqtN-US3I | Sabayon Minimal Edition - Most Painful Linux Install Ever? - YouTube
+https://www.youtube.com/watch?v=bBxcTqfm4V8 | ArchLabs Minimo First Impression Install & Review - YouTube
+https://www.youtube.com/watch?v=ALpJjOZxrXM | OpenSUSE Tumbleweed Install and Review KDE edition - YouTube
+https://www.youtube.com/watch?v=RacGSfhNWLw | Kubuntu 17.10 Artful Aarvark - Install and Review - YouTube
+https://www.youtube.com/watch?v=mQ0XUnMbwl0 | Xubuntu 17.10 Artful Aarvark - Install and Review - YouTube
+https://www.youtube.com/watch?v=fOOGnuCVd-g | Lubuntu 17.10 Artful Aarvark - Install and Review - YouTube
+https://www.youtube.com/watch?v=2jlhqZ1b1-A&t=4s | Calcurse - Organizer and Scheduling App - YouTube
+https://www.youtube.com/watch?v=O3ATD7hxj9M | How to use and configure i3Blocks - YouTube
+https://www.youtube.com/watch?v=gKumet6b-WY | i3blocks Status Bar (RELOADED) - YouTube
+https://www.reddit.com/r/i3wm/comments/4udbeg/i3blocks_network_script/ | i3blocks network script? : i3wm
+https://www.google.com/search?client=firefox-b-d&q=two+different+i3bar | two different i3bar - Google Search
+https://www.reddit.com/r/i3wm/comments/84tphl/is_it_possible_to_have_two_i3_bars_one_at_the_top/ | Is it possible to have two i3 bars, one at the top of the screen and one at the bottom? : i3wm
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk01eJYeTHPAQ0nFSUNsT5CVuuu0SZw%3A1586616683610&ei=a9mRXoTcJMbQ-gThoa6gDw&q=i3bar+hide+workspace&oq=i3bar+hide+work&gs_lcp=CgZwc3ktYWIQAxgAMgUIIRCgATIFCCEQoAE6BAgjECc6AggAOgYIABAWEB46BQgAEM0CShoIFxIWNy0xMjJnODFnMTAyZzgzZzgyZzEwNkoRCBgSDTctMWcxZzFnNWcxZzJQvkJYv2Jg3WloAHAAeACAAV6IAa4GkgECMTGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab | i3bar hide workspace - Google Search
+https://faq.i3wm.org/question/2800/dont-show-specific-workspace-buttons-on-i3bar/index.html | Don't show specific workspace buttons on i3bar - i3 FAQ
+https://wiki.archlinux.org/index.php/Polybar | Polybar - ArchWiki
+https://www.linuxtechi.com/awk-command-tutorial-with-examples/ | Linux/UNIX Awk Command Tutorial with Examples
+https://www.youtube.com/watch?v=20QeFkwXgCE | Using awk to analyze Bro logs by Mark Krenz - YouTube
+https://www.youtube.com/watch?v=fCw-xf31M_s | Using AWK to format output - YouTube
+https://www.youtube.com/watch?v=jJ02kEETw70 | EVERYONE Needs to Learn a Little Bit of AWK! - YouTube
+https://www.youtube.com/watch?v=8q8DHmA9puw | Why Use CAT Or GREP When You Can AWK? - YouTube
+https://www.youtube.com/watch?v=oz_LkKXU3OE | How to use awk - Tutorial to learn Bash Shell Scripting - Bash Scripting Fundamentals video course - YouTube
+https://www.youtube.com/ | YouTube
+
+https://www.youtube.com/watch?v=Xe8fIjxicoo | How we must respond to the coronavirus pandemic | Bill Gates - YouTube
+https://stackoverflow.com/questions/10003136/what-is-the-difference-between-xterm-color-xterm-256color | linux - What is the difference between xterm-color & xterm-256color? - Stack Overflow
+https://www.linuxjournal.com/content/using-bash-history-more-efficiently-histcontrol | Using Bash History More Efficiently: HISTCONTROL | Linux Journal
+https://www.thegeekstuff.com/2008/09/bash-shell-ps1-10-examples-to-make-your-linux-prompt-like-angelina-jolie/ | Bash Shell PS1: 10 Examples to Make Your Linux Prompt like Angelina Jolie
+https://www.thegeekstuff.com/2008/09/bash-shell-take-control-of-ps1-ps2-ps3-ps4-and-prompt_command/ | Bash Shell: Take Control of PS1, PS2, PS3, PS4 and PROMPT_COMMAND
+https://vivien.github.io/i3blocks/#_example | i3blocks
+
+https://www.youtube.com/watch?v=P7Jd0iNSCQA | What Are Linux Users Putting In Their Config Files? - YouTube
+https://github.com/Kharacternyk/dotcommon | Kharacternyk/dotcommon: What do people have in their dotfiles?
+https://wiki.archlinux.org/index.php/Polybar | Polybar - ArchWiki
+https://www.reddit.com/r/i3wm/comments/8jpa4m/what_cool_things_do_you_guys_have_on_your/ | What cool things do you guys have on your i3status config? : i3wm
+https://github.com/onetwopunch/dotfiles/tree/master/Scripts | dotfiles/Scripts at master · onetwopunch/dotfiles
+https://github.com/addy-dclxvi/i3-starterpack/blob/master/.config/i3/config | i3-starterpack/config at master · addy-dclxvi/i3-starterpack
+http://ryan.himmelwright.net/post/started-using-i3blocks/ | Refreshing my i3 setup with i3blocks -- λ ryan. himmelwright. net
+https://i3wm.org/i3status/manpage.html | i3: i3status(1)
+https://gist.github.com/rafi/6063132 | Rafi's i3status configuration file
+https://medium.com/hacker-toolbelt/my-i3status-customization-3e8ad6f0153a | My i3status customization - Hacker Toolbelt - Medium
+https://medium.com/hacker-toolbelt/my-i3status-customization-3e8ad6f0153a | My i3status customization - Hacker Toolbelt - Medium
+https://www.google.com/search?client=firefox-b-d&q=i3status+vs+i3blocks | i3status vs i3blocks - Google Search
+https://github.com/polybar/polybar | polybar/polybar: A fast and easy-to-use status bar
+https://wiki.archlinux.org/index.php/Conky | Conky - ArchWiki
+https://i3wm.org/docs/user-contributed/conky-i3bar.html | i3 - improved tiling wm
+https://www.reddit.com/r/unixporn/comments/72bkkg/i3gaps_a_little_past_midnight/ | [i3-gaps] A little past midnight... : unixporn
+https://github.com/vivien/i3blocks | vivien/i3blocks: A feed generator for text based status bars
+https://github.com/adi1090x/polybar-themes/blob/master/README.md | polybar-themes/README.md at master · adi1090x/polybar-themes
+https://github.com/vivien/i3blocks | vivien/i3blocks: A feed generator for text based status bars
+https://www.google.com/search?client=firefox-b-d&q=i3blocks+tutorial | i3blocks tutorial - Google Search
+https://extendedreality.wordpress.com/2016/12/04/blocks-of-i3blocks-stuff-that-rocks/ | Blocks of i3blocks: stuff that rocks – Extended Reality
+https://www.reddit.com/r/i3wm/comments/2hnpyn/i3blocks_config/ | i3blocks config : i3wm
+https://www.reddit.com/r/i3wm/comments/7xxdk6/how_to_display_icons_on_i3blocks_or_i3status/ | How to display icons on i3blocks or i3status? : i3wm
+https://github.com/vivien/i3blocks-contrib/blob/master/config.example | i3blocks-contrib/config.example at master · vivien/i3blocks-contrib
+https://www.reddit.com/r/i3wm/comments/2hnpyn/i3blocks_config/ | i3blocks config : i3wm
+https://github.com/vivien/i3blocks-contrib/blob/master/config.example | i3blocks-contrib/config.example at master · vivien/i3blocks-contrib
+https://www.reddit.com/r/i3wm/comments/7562mq/where_should_i_copy_i3blockss_blocks_from/ | i3 Window Manager
+https://github.com/DirkReinemann/i3blocks-scripts | DirkReinemann/i3blocks-scripts: Scripts for i3blocks.
+https://github.com/topics/i3blocks-scripts | i3blocks-scripts · GitHub Topics
+https://extendedreality.wordpress.com/2016/12/04/blocks-of-i3blocks-stuff-that-rocks/ | Blocks of i3blocks: stuff that rocks – Extended Reality
+https://github.com/vivien/i3blocks | vivien/i3blocks: A feed generator for text based status bars
+https://github.com/vivien/i3blocks | vivien/i3blocks: A feed generator for text based status bars
+https://github.com/vivien/i3blocks-contrib/tree/master/battery | i3blocks-contrib/battery at master · vivien/i3blocks-contrib
+https://stackoverflow.com/questions/8488253/how-to-force-cp-to-overwrite-without-confirmation | linux - How to force cp to overwrite without confirmation - Stack Overflow
+
+https://www.youtube.com/watch?v=-BOW61luzF4 | i3-gaps Setup (Nearing Perfection; August 2017) - YouTube
+https://www.youtube.com/watch?v=1e53UNn8Y_k | Open Source Contributions #1 – Alacritty - YouTube
+https://github.com/mrrostam/dotfiles | mrrostam/dotfiles: My personal config
+https://addy-dclxvi.github.io/post/configuring-urxvt/ | Configuring URxvt to Make It Usable and Less Ugly - Addy's Blog
+
+https://wiki.archlinux.org/index.php/Rofi | Rofi - ArchWiki
+https://www.google.com/search?client=firefox-b-d&q=rofi+configuration | rofi configuration - Google Search
+https://github.com/davatorium/rofi/wiki/themes | Themes · davatorium/rofi Wiki
+https://github.com/davatorium/rofi | davatorium/rofi: Rofi: A window switcher, application launcher and dmenu replacement
+https://blog.wizardsoftheweb.pro/rofi-basic-configuration/ | rofi: Basic Configuration
+https://github.com/davatorium/rofi/blob/1.4.2/doc/rofi.1.markdown#configuration | rofi/rofi.1.markdown at 1.4.2 · davatorium/rofi
+
+https://github.com/mrrostam/dotfiles | mrrostam/dotfiles: My personal config
+https://www.google.com/search?client=firefox-b-d&q=i3+arch+install | i3 arch install - Google Search
+https://www.youtube.com/watch?v=fT8l4IYxCtY | Obscure WIndow Manager Project - i3 Gaps - DT LIVE - YouTube
+https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture | Advanced Linux Sound Architecture - ArchWiki
+https://www.youtube.com/results?search_query=openbox | openbox - YouTube
+https://www.youtube.com/watch?v=247Y6nh93I4 | The Openbox Window Manager - Install & Setup - YouTube
+https://www.youtube.com/watch?v=GE5qNANComM | Installing and Configuring Openbox in Arch Linux - YouTube
+https://www.youtube.com/watch?v=_FZCXVgiORA | How to setup Openbox on a minimal install of Debian - YouTube
+https://i3wm.org/docs/ | i3 - improved tiling wm
+https://wiki.archlinux.org/index.php/Bluetooth | Bluetooth - ArchWiki
+https://wiki.archlinux.org/index.php/Bluetooth_headset | Bluetooth headset - ArchWiki
+https://wiki.archlinux.org/index.php/PulseAudio | PulseAudio - ArchWiki
+https://www.archlinux.org/packages/?name=pavucontrol | Arch Linux - Package Search
+http://www.bluez.org/about/ | BlueZ » About
+https://www.archlinux.org/packages/?name=bluez-utils | Arch Linux - Package Search
+https://askubuntu.com/questions/301458/how-can-i-tell-if-my-laptop-has-bluetooth | How can I tell if my laptop has Bluetooth? - Ask Ubuntu
+https://unix.stackexchange.com/questions/258074/error-when-trying-to-connect-to-bluetooth-speaker-org-bluez-error-failed | debian - Error when trying to connect to bluetooth speaker: `org.bluez.Error.Failed` - Unix & Linux Stack Exchange
+https://www.google.com/search?q=bluetooth+headset+arch&client=firefox-b-d&sxsrf=ALeKk01GjPkLz399av6kv8xVFB-VpSBV7A:1586492399306&source=lnms&tbm=vid&sa=X&ved=2ahUKEwin3ZjfgN3oAhWrIzQIHaV9BF0Q_AUoBHoECAwQBg&biw=796&bih=787 | bluetooth headset arch - Google Search
+https://arcolinux.com/how-to-autoconnect-your-bluetooth-headset-to-arcolinux-any-desktop/ | How to autoconnect your bluetooth headset to ArcoLinux – any desktop | Arcolinux.com
+https://www.youtube.com/ | YouTube
+https://www.youtube.com/watch?v=7VtfvIZJRl4 | Lenovo ThinkPad X1 Carbon (2018) review: A near-perfect laptop for professionals - YouTube
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk00WIIluTQ8w5NgGpPyjRZR358DgJw%3A1586493637444&ei=xfiPXsTPGubH0PEP2YCrwAM&q=playerctl+arch&oq=playerctl+arch&gs_lcp=CgZwc3ktYWIQAzICCAAyBAgAEEMyBggAEBYQHjIGCAAQFhAeMgUIABDNAjoECAAQRzoHCAAQFBCHAkoLCBcSBzktMjdnODNKCQgYEgU5LTJnNVCiCli5EWCuE2gAcAJ4AIABTYgB0AKSAQE1mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwiExsqthd3oAhXmIzQIHVnACjgQ4dUDCAs&uact=5 | playerctl arch - Google Search
+https://security.archlinux.org/package/playerctl | playerctl - Arch Linux
+https://www.google.com/search?client=firefox-b-d&q=playerctl+mplayer | playerctl mplayer - Google Search
+https://github.com/altdesktop/playerctl/releases | Releases · altdesktop/playerctl
+https://www.ostechnix.com/control-media-players-commandline-linux/ | How To Control Media Players From Commandline In Linux - OSTechNix
+https://specifications.freedesktop.org/mpris-spec/latest/ | MPRIS D-Bus Interface Specification — v2.2
+https://www.google.com/search?client=firefox-b-d&q=mplayer+playerctl | mplayer playerctl - Google Search
+https://wiki.archlinux.org/index.php/List_of_applications/Multimedia | List of applications/Multimedia - ArchWiki
+https://www.google.com/search?client=firefox-b-d&q=best+arch+music+player | best arch music player - Google Search
+https://www.reddit.com/r/archlinux/comments/5zb22v/what_music_player_do_you_use/ | What music player do you use? : archlinux
+https://www.reddit.com/r/archlinux/comments/cjn3f7/what_music_player_do_you_use_and_why/ | What music player do you use and why? : archlinux
+https://wiki.archlinux.org/index.php/Spotify | Spotify - ArchWiki
+https://www.google.com/search?client=firefox-b-d&q=aur+package+manager | aur package manager - Google Search
+https://github.com/Jguer/yay | Jguer/yay: Yet another Yogurt - An AUR Helper written in Go
+https://www.tecmint.com/install-yay-aur-helper-in-arch-linux-and-manjaro/ | How to Install Yay AUR Helper in Arch Linux and Manjaro
+https://wiki.archlinux.org/index.php/pacman | pacman - ArchWiki
+https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg/videos?view=0&sort=da&flow=grid | DistroTube - YouTube
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk02DKGrd73I8gr29KCSiVaAtIGWsXw%3A1586503424693&ei=AB-QXsr6KcXZ9AOF-quoCQ&q=sony+vaio+vpcf1+ram+upgrade&oq=vpcf1+sony+vaio+ram+&gs_lcp=CgZwc3ktYWIQARgBMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIFCAAQzQIyBQgAEM0CMgUIABDNAjIFCAAQzQI6BAgAEEc6AggAOggIABAWEAoQHkoNCBcSCTExLTgyZzEwMEoKCBgSBjExLTZnMVDvI1jQKGCVM2gAcAJ4AIABZ4gBqwOSAQM0LjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab | sony vaio vpcf1 ram upgrade - Google Search
+https://www.youtube.com/watch?v=EsAkPl3On3E | To Luke Smith: Why bother with Emacs? Part 1 - YouTube
+https://www.ebay.ca/b/SO-DIMM-2GB-PC3-8500-DDR3-1066-4-GB-Computer-Memory-RAM/170083/bn_55357869 | SO-DIMM 2GB PC3-8500 (DDR3-1066) 4 GB Computer Memory (RAM) for sale | eBay
+https://www.mrmemory.co.uk/memory-ram-upgrades/sony/vaio-laptop/vpcf11dgx-b | Sony VAIO Laptop VPCF11DGX/B Memory RAM Upgrades - FREE Delivery & Guaranteed Compatible | Mr Memory®
+https://www.compuram.biz/memory/sony/notebook/vaio/f-series/vpcf13s8e-b/?st=tab_maxmem | RAM Upgrades Overview | Sony VAIO VPCF13S8E/B F-Series - max up to 16GB
+https://www.google.com/search?q=urxvt+rice&client=firefox-b-d&sxsrf=ALeKk01iqRl-gDyb2YxcrjJfnX4btRbXMA:1586500246506&ei=lhKQXpG1HuLY9AO-kr3wBg&start=10&sa=N&ved=2ahUKEwiR2IP9nd3oAhViLH0KHT5JD24Q8tMDegQIDBAt&biw=1596&bih=787 | urxvt rice - Google Search
+https://wiki.archlinux.org/index.php/Rxvt-unicode | rxvt-unicode - ArchWiki
+https://addy-dclxvi.github.io/post/configuring-urxvt/ | Configuring URxvt to Make It Usable and Less Ugly - Addy's Blog
+https://github.com/victoriadrake/i3-linux-config-tokyo-rice/blob/master/.Xdefaults | i3-linux-config-tokyo-rice/.Xdefaults at master · victoriadrake/i3-linux-config-tokyo-rice
+https://www.reddit.com/r/unixporn/comments/32pjq3/how_do_i_get_those_pretty_terminals/ | How do I get those pretty terminals? : unixporn
+https://crispgm.com/page/the-fascinating-arch-linux-rice.html | The Fascinating Arch Linux RICE | David Zhang
+https://www.askapache.com/linux/rxvt-xresources/ | URxvt Customization and Optimization with Xresources
+https://awesomeopensource.com/project/victoriadrake/i3-linux-config-tokyo-rice | I3 Linux Config Tokyo Rice
+https://www.reddit.com/r/unixporn/comments/bwudem/i3_my_first_rice_attempt/?utm_source=ifttt | [i3] My First Rice Attempt : unixporn
+https://github.com/ahmedselim2017/dotfiles-scripts/blob/master/dotfiles/i3 | dotfiles-scripts/i3 at master · ahmedselim2017/dotfiles-scripts
+https://wiki.archlinux.org/index.php/Display_manager | Display manager - ArchWiki
+https://wiki.archlinux.org/index.php/display_manager | Display manager - ArchWiki
+https://www.google.com/search?client=firefox-b-d&q=key+code+linux | key code linux - Google Search
+https://wiki.archlinux.org/index.php/Keyboard_input | Keyboard input - ArchWiki
+https://wiki.archlinux.org/index.php/Xbindkeys#Identifying_keycodes | Xbindkeys - ArchWiki
+https://wiki.archlinux.org/index.php/Map_scancodes_to_keycodes | Map scancodes to keycodes - ArchWiki
+https://en.wikipedia.org/wiki/Modifier_key | Modifier key - Wikipedia
+https://wiki.archlinux.org/index.php/Linux_console/Keyboard_configuration | Linux console/Keyboard configuration - ArchWiki
+https://wiki.archlinux.org/index.php/Xorg/Keyboard_configuration | Xorg/Keyboard configuration - ArchWiki
+https://wiki.archlinux.org/index.php/Keyboard_shortcuts#Xorg | Keyboard shortcuts - ArchWiki
+https://wiki.archlinux.org/index.php/Linux_console/Keyboard_configuration#Creating_a_custom_keymap | Linux console/Keyboard configuration - ArchWiki
+https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h | linux/input-event-codes.h at master · torvalds/linux
+https://wiki.archlinux.org/index.php/PulseAudio | PulseAudio - ArchWiki
+https://wiki.archlinux.org/index.php/Xrandr | xrandr - ArchWiki
+https://www.google.com/search?client=firefox-b-d&q=set+%24ws1 | set $ws1 - Google Search
+https://github.com/Shinmera/.i3/blob/master/config | .i3/config at master · Shinmera/.i3
+https://gist.github.com/simonhayward/11316105 | .i3-config
+https://unix.stackexchange.com/questions/96798/i3wm-start-applications-on-specific-workspaces-when-i3-starts | window manager - i3wm : start applications on specific workspaces when i3 starts - Unix & Linux Stack Exchange
+https://github.com/tyjak/archlinux/blob/master/.config/i3/config | archlinux/config at master · tyjak/archlinux
+https://www.youtube.com/watch?v=EEvcH3bdN1I | گفتگو با جادی میرمیرانی در مراسم رونمایی هیولا - YouTube
+https://www.youtube.com/watch?v=0u_QrmSm9nM | Sony WH-1000XM3 6 Months Later | An Honest Review - YouTube
+https://www.youtube.com/watch?v=cNr-nobIjks | Terminal-based Web Browsing with w3m - Lunduke Show - YouTube
+https://www.youtube.com/watch?v=0bXtWPqKt4E | ساختن یه فایل ایندکس حاوی لینک دانلود همه رادیوگیک ها و اضافه کردنش به کرون تب - YouTube
+https://www.google.com/search?client=firefox-b-d&q=hayoola | hayoola - Google Search
+https://fontawesome.com/cheatsheet/free/solid | Cheatsheet | Font Awesome
+https://www.google.com/search?client=firefox-b-d&q=urxvt+show+other+font | urxvt show other font - Google Search
+https://wiki.archlinux.org/index.php/Rxvt-unicode#Font_declaration_methods | rxvt-unicode - ArchWiki
+https://bbs.archlinux.org/viewtopic.php?id=139831 | [SOLVED] Changing font in urxvt, what's available? / Newbie Corner / Arch Linux Forums
+https://bbs.archlinux.org/viewtopic.php?id=229722 | URxvt won't display some Unicode Characters properly / Applications & Desktop Environments / Arch Linux Forums
+https://github.com/powerline/fonts/issues/176 | Some unicode symbols still not displayed with urxvt or xterm · Issue #176 · powerline/fonts
+https://1-movies.ir/series/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%81%D8%B5%D9%84-%D9%87%D8%B4%D8%AA%D9%85-game-of-thrones/ | دانلود فصل 8 بازی تاج و تخت Game Of Thrones زیرنویس و دوبله
+https://1-movies.ir/series/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%d8%b5%d9%84-%d8%a7%d9%88%d9%84-game-of-thrones/ | دانلود فصل اول (۱) بازی تاج و تخت Game Of Thrones + بدون سانسور | دوبله فارسی
+https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk01i2e3vQ6pTUfj2FgHZGQ73P905Ng%3A1586542950671&ei=ZrmQXvTQKNi90PEPtbq3oA8&q=xresources+urxvt&oq=xresources+ur&gs_lcp=CgZwc3ktYWIQARgAMgIIADICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHOgQIABBDOgcIABAUEIcCSgkIFxIFMTAtNzRKCAgYEgQxMC01ULIWWKgmYKQyaABwAngAgAFRiAHmAZIBATOYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab | xresources urxvt - Google Search
+https://wiki.archlinux.org/index.php/Rxvt-unicode | rxvt-unicode - ArchWiki
+https://gist.github.com/liangzan/1643690 | Xresources for configuring urxvt
+https://gist.github.com/whit/1307597 | Personal ~/.Xresources settings. With some rxvt-unicode tweaks, Solarized color theme etc...
+https://unix.stackexchange.com/questions/260338/urxvt-xresources-not-reading-loading | rxvt - urxvt ~/.Xresources not reading/loading? - Unix & Linux Stack Exchange
+https://www.reddit.com/r/archlinux/comments/5gntxy/urxvt_source_code_pro_font_looks_bad/ | urxvt: source code pro font looks bad? : archlinux
+https://github.com/revan/dotfiles/blob/master/Xresources | dotfiles/Xresources at master · revan/dotfiles
+https://github.com/jasonij/dotfiles/blob/master/.Xresources | dotfiles/.Xresources at master · jasonij/dotfiles
+https://wiki.archlinux.org/index.php/X_resources | X resources - ArchWiki
+https://www.google.com/search?client=firefox-b-d&q=urxvt+config | urxvt config - Google Search
+https://addy-dclxvi.github.io/post/configuring-urxvt/ | Configuring URxvt to Make It Usable and Less Ugly - Addy's Blog
+https://unix.stackexchange.com/questions/15024/umount-device-is-busy-why | mount - umount: device is busy. Why? - Unix & Linux Stack Exchange
+https://www.youtube.com/watch?v=NbVOEKKcLgU&t=1223s | Atreus, i3, and Vim - YouTube
+https://github.com/base16-builder/base16-builder | base16-builder/base16-builder: Base16 Builder is a nimble command-line tool that generates themes for your favourite programs.
+https://github.com/bookercodes/dotfiles | bookercodes/dotfiles: .files
+https://github.com/bookercodes/awesome-urxvt | bookercodes/awesome-urxvt: A community-driven collection of extensions and learning resources for the popular urxvt terminal window.
+https://www.youtube.com/channel/UCcQsDUZiK1GWDcP7BpVO_kw | Code Cast - YouTube
+https://www.reddit.com/r/unixporn/comments/3358vu/i3lock_unixpornworthy_lock_screen/ | [i3lock] unixporn-worthy lock screen : unixporn
+https://www.iconfinder.com/search/?q=lock&price=premium&license=2 | Lock icons - 31,189 free & premium icons on Iconfinder
+https://github.com/savoca/dotfiles/blob/gray/home/.bin/scripts/lock.sh | dotfiles/lock.sh at gray · savoca/dotfiles
+https://github.com/bookercodes/dotfiles/tree/ubuntu | bookercodes/dotfiles at ubuntu
+https://gist.github.com/cryzed/e002e7057435f02cc7894b9e748c5671 | A set of instructions on how to fix the harfbuzz + Infinality issue and restoring good-looking, Infinality-like font rendering.
+https://wiki.archlinux.org/index.php/Font_configuration#Infinality:_the_generic_way | Font configuration - ArchWiki
+https://www.google.com/search?client=firefox-b-d&q=i3status+vs+i3blocks | i3status vs i3blocks - Google Search
+http://ryan.himmelwright.net/post/started-using-i3blocks/ | Refreshing my i3 setup with i3blocks -- λ ryan. himmelwright. net
+https://www.reddit.com/r/unixporn/comments/3bfykh/i3gaps_just_switched_to_i3blocks_from_i3status/ | [i3-gaps] Just switched to i3blocks from i3status. Much more flexible! : unixporn
+https://www.gmail.com/ | https://www.gmail.com/
+https://bbs.archlinux.org/viewtopic.php?id=142924 | [Solved] Why isn't .Xresources loaded after I startx? / Newbie Corner / Arch Linux Forums
+https://about.gitlab.com/company/culture/all-remote/ | All Remote | GitLab
+https://addons.mozilla.org/en-CA/firefox/addon/onetab/ | OneTab – Get this Extension for 🦊 Firefox (en-CA)
